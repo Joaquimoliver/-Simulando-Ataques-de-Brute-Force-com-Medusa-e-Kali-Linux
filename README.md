@@ -310,6 +310,6 @@ Welcome1
 
 ---
 
-### 👤 Autor
+### 👤 Autor Joaquim
 
 Projeto desenvolvido como parte do desafio de prática da **DIO (Digital Innovation One)** — Formação em Cibersegurança.
